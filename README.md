@@ -1,5 +1,3 @@
 # Examples
 
-Examples of code used in work.
-
-More information in private repository by request.
+In this repository you can find examples of my data analisys and machine learning code.
